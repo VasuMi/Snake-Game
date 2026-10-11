@@ -1,6 +1,6 @@
-# Snake Game - Pygame Edition
+# Snake Game
 
-A classic, retro Snake Game built using Python and the `pygame` library. Guide the snake, eat the red food to grow longer, and try to achieve the highest score without hitting the walls or your own tail!
+A classic, retro Snake Game built using Python pygame library. Guide the snake, eat the red food to grow longer, and try to achieve the highest score without hitting the walls or your own tail!
 
 ---
 
